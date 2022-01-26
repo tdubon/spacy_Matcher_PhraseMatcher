@@ -1,4 +1,4 @@
-#spacy_Matcher_PhraseMatcher
+# spacy Matcher PhraseMatcher
 
 This Jupyter Notebook accompanies my article on spaCy's Matcher and Phrase Matcher, 
 two important tools used to conduct entity recognition.
